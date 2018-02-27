@@ -12,7 +12,7 @@ map
 - 많은 자료를 저장하고, 검색이 빨라야 한다.
 - 빈번하게 삽입, 삭제하지 않는다.
 
-3. ### vector의 사용  
+3. ### map의 사용  
 #include < map >  
 기본 형태 :  map<key,value>  
 -> key와 value를 pair 형태로 선언
